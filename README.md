@@ -30,7 +30,7 @@ Pandas (for handling unit conversions, if applicable)
 
 📥 Installation & Usage
 1️⃣ Clone this repository:
-git clone https://github.com/your-username/unit-converter.git
+git clone https://github.com/Mahamzafar768/Unit-Converter
 cd unit-converter
 
 2️⃣ Install the required dependencies:
